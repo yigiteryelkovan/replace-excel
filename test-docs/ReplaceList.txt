@@ -1,0 +1,8 @@
+J.Doe|John Doe
+A.William|Alex Williams
+B.Obama|Barrack Obama
+E.Musk|Elon Musk
+M.Zuckerberg|Mark Zuckerberg
+S.Jobs|Steve Jobs
+L.Page|Larry Page
+J.Bezos|Jeff Bezos
